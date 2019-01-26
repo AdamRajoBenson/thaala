@@ -1,6 +1,5 @@
-#include<stdio.h>
-#include <iostream>
-using namespace std;
+#include <iostream.h>
+#include<conio.h>
 int main()
 {
 int n,a,b;
